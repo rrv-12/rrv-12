@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m currently working on: AI-powered Mental Health Chatbot<br>🤝 I’m looking to collaborate on: AI/ML projects, hackathons, and LLM applications<br>🆘 I’m looking for help with: Diffusion models & dataset curation for synthetic data<br>📚 I’m currently learning: Advanced Generative AI & LLM fine-tuning<br>💬 Ask me about: NLP, Computer Vision, and AI-based automation<br>⚡ Fun fact: I love pushing AI boundaries & taking on challenging projects 🚀
+🎯 I’m currently working on: Impementing Vision Transformers from scratch<br>🤝 I’m looking to collaborate on: AI/ML projects, hackathons, and LLM applications<br>🆘 I’m looking for help with: Diffusion models & dataset curation for synthetic data<br>📚 I’m currently learning: Advanced Generative AI & LLM fine-tuning<br>💬 Ask me about: NLP, Computer Vision, and AI-based automation<br>⚡ Fun fact: I love pushing AI boundaries & taking on challenging projects 🚀
 
 
 ## 🌐 Socials:
